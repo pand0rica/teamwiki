@@ -1,0 +1,13 @@
+# Local test environment
+docker-compose.yaml
+.dockerignore
+*.code-workspace
+
+# Forum post
+PLUGIN_POST.html
+
+# Sensitive
+.vscode/sftp.json
+*.sql
+*.bak
+*.backup
