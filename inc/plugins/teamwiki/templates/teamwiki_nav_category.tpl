@@ -1,0 +1,1 @@
+<div class="tcat"><strong>{$cat_name}</strong></div>

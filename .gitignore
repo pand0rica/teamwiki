@@ -1,0 +1,21 @@
+# MyBB / IDE
+.vscode/
+.vscode/sftp.json
+*.code-workspace
+
+# Local test environment (not part of the release)
+docker-compose.yaml
+.dockerignore
+
+# Forum post (generated for forum threads, not code)
+PLUGIN_POST.html
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.bak
+*.backup
+*.swp
+
+# Database dumps
+*.sql

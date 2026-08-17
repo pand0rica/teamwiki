@@ -1,0 +1,1 @@
+<div class="teamwiki-entry">&raquo; <a href="teamwiki.php?eid={$entry_id}">{$entry_title}</a></div>
